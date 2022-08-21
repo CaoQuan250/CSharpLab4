@@ -1,0 +1,15 @@
+C:\FPTAPTECH\Sem2\C#\Lab4\IndexersDemo\bin\Debug\net6.0\IndexersDemo.exe
+C:\FPTAPTECH\Sem2\C#\Lab4\IndexersDemo\bin\Debug\net6.0\IndexersDemo.deps.json
+C:\FPTAPTECH\Sem2\C#\Lab4\IndexersDemo\bin\Debug\net6.0\IndexersDemo.runtimeconfig.json
+C:\FPTAPTECH\Sem2\C#\Lab4\IndexersDemo\bin\Debug\net6.0\IndexersDemo.dll
+C:\FPTAPTECH\Sem2\C#\Lab4\IndexersDemo\bin\Debug\net6.0\IndexersDemo.pdb
+C:\FPTAPTECH\Sem2\C#\Lab4\IndexersDemo\obj\Debug\net6.0\IndexersDemo.csproj.AssemblyReference.cache
+C:\FPTAPTECH\Sem2\C#\Lab4\IndexersDemo\obj\Debug\net6.0\IndexersDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPTAPTECH\Sem2\C#\Lab4\IndexersDemo\obj\Debug\net6.0\IndexersDemo.AssemblyInfoInputs.cache
+C:\FPTAPTECH\Sem2\C#\Lab4\IndexersDemo\obj\Debug\net6.0\IndexersDemo.AssemblyInfo.cs
+C:\FPTAPTECH\Sem2\C#\Lab4\IndexersDemo\obj\Debug\net6.0\IndexersDemo.csproj.CoreCompileInputs.cache
+C:\FPTAPTECH\Sem2\C#\Lab4\IndexersDemo\obj\Debug\net6.0\IndexersDemo.dll
+C:\FPTAPTECH\Sem2\C#\Lab4\IndexersDemo\obj\Debug\net6.0\refint\IndexersDemo.dll
+C:\FPTAPTECH\Sem2\C#\Lab4\IndexersDemo\obj\Debug\net6.0\IndexersDemo.pdb
+C:\FPTAPTECH\Sem2\C#\Lab4\IndexersDemo\obj\Debug\net6.0\IndexersDemo.genruntimeconfig.cache
+C:\FPTAPTECH\Sem2\C#\Lab4\IndexersDemo\obj\Debug\net6.0\ref\IndexersDemo.dll
